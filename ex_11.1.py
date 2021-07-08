@@ -12,3 +12,5 @@ for number in num:
   lst.append(final)
 # if len(num) != 1 : continue
 print(sum(lst))
+
+
